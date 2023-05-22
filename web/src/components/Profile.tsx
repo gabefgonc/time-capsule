@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { getUser } from '../lib/auth'
 import Image from 'next/image'
 
